@@ -41,10 +41,16 @@
 
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanurims&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" height="200" />
-
-  <img  src="https://github-readme-stats.vercel.app/api?username=tanurims&show_icons=true&locale=en&theme=tokyonight" alt="tanurims" height="200"/>
-
+  <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanurims&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tanurims&show_icons=true&locale=en&theme=tokyonight" height="200"/>
+    </td>
+  </tr>
+</table>
 
 
 
