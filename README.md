@@ -39,15 +39,14 @@
 <h3 align="left">💡 Git Activeness:</h3>
 
 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanurims&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" height="200" />
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tanurims&show_icons=true&locale=en&theme=tokyonight" alt="tanurims" height="200"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanurims&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" height="200" />
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=tanurims&show_icons=true&locale=en&theme=tokyonight" alt="tanurims" height="200"/>
 
 
-</div>
+
 
 -------------------------
 
