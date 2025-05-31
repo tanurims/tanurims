@@ -39,7 +39,7 @@
 <h3 align="left">💡 Git Activeness:</h3>
 
 
-<div style="display: flex; gap: 50px; justify-content: center; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanurims&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" height="200" />
 
