@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanurims&label=Profile%20views&color=0e75b6&style=flat" alt="tanurims" /> </p>
 
 
-- 🌱 I’m currently pursuing a BSc. (Hons.) in Computer Science at UCSC.
+- 🌱 I’m currently pursuing a BSc. in Computer Science at UCSC.
   
 - 💻 I love building full-stack web applications and exploring modern web technologies.
   
