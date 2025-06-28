@@ -10,7 +10,7 @@
   
 - 💻 I love building full-stack web applications and exploring modern web technologies.
   
-- 🧠 I’m currently learning Python, MERN stack and GitHub workflows.
+- 🧠 I’m currently learning Spring boot, MERN stack and GitHub workflows.
  
 - 📫 How to reach me **tanurims@gmail.com**
 
