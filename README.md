@@ -6,15 +6,21 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanurims&label=Profile%20views&color=0e75b6&style=flat" alt="tanurims" /> </p>
 
 
-- 🌱 I’m currently pursuing a BSc. in Computer Science at UCSC.
-  
-- 💻 I love building full-stack web applications and exploring modern web technologies.
-  
-- 🧠 I’m currently learning Spring boot, MERN stack and GitHub workflows.
- 
+<table>
+  <tr>
+    <td>
+
+- 🌱 I’m currently pursuing a BSc. in Computer Science at UCSC.  
+- 💻 I love building full-stack web applications and exploring modern web technologies.  
+- 🧠 I’m currently learning Spring boot, MERN stack and GitHub workflows.  
 - 📫 How to reach me **tanurims@gmail.com**
 
-
+    </td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwwZmQycWJoenRsbXJubWUxa3FqcHQ5Y3I5aHJpMHByeGx5dW5tbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 -----------------------
 
